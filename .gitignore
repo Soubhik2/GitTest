@@ -1,1 +1,12 @@
 *.log
+d/
+Gitignore Rule.txt
+
+
+# file_name.log ignore one file
+# *.log ignore all file
+
+# d/ ignore all d folder
+# /d/ ignore only one path
+#
+
